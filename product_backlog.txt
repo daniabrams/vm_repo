@@ -11,11 +11,13 @@ This is the product backlog alongside the first deliverable
 
 
 
-SPRINT 3
+SPRINT 2
 
-....Building 100%
+....Building version 100%
 
 
 Built the battery.
 
 status: complete
+
+version: 1.1
