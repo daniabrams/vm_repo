@@ -11,9 +11,11 @@ This is the product backlog alongside the first deliverable
 
 
 
-SPRINT 1
+SPRINT 2
 
 ....Building 100%
 
 
-Built the motherboard.
+Built the lcd.
+
+status: complete
