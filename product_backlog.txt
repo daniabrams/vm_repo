@@ -15,9 +15,9 @@ SPRINT 3
 
 ....Building version 100%
 
-
-Built the camera.
+Built the charger.
 
 status: complete
 
-version: 1.2
+version 1.3
+
