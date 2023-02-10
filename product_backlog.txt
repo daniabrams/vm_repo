@@ -16,8 +16,8 @@ SPRINT 3
 ....Building version 100%
 
 
-Built the camera.
+Built the speakers.
 
 status: complete
 
-version: 1.2
+version: 1.2.1
