@@ -11,11 +11,13 @@ This is the product backlog alongside the first deliverable
 
 
 
-SPRINT 2
+SPRINT 3
 
 ....Building 100%
 
 
-Built the lcd.
+Built the charger.
 
 status: complete
+
+version 1.3
